@@ -26,11 +26,11 @@ Now exploring more complex ML solutions and data visualisation techniques.
 📌 Featured Projects
 --------------------
 
-*   [CUMULUS – Cloud Migration Assessment Tool](https://github.com/yourusername/cumulus)  
+*   [CUMULUS – Cloud Migration Assessment Tool](https://github.com/davidAlausa/cumulus)  
     Full-stack project using Spring Boot + Vue.js, applying cloud frameworks for SMEs.
-*   [Portfolio Website](https://github.com/yourusername/portfolio-website)  
+*   [Portfolio Website](https://github.com/davidAlausa/portfolio-website)  
     Personal website built from scratch with Vue.js and D3.js, showcasing my skills and future projects.
-*   [Python Game](https://github.com/yourusername/myFirstPythonProject)  
+*   [Python Game](https://github.com/davidAlausa/myFirstPythonProject)  
     2D survival-style game created with Pygame and MoviePy while learning Python from scratch.
 
 

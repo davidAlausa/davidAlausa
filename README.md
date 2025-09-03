@@ -47,4 +47,4 @@ Now exploring more complex ML solutions and data visualisation techniques.
 🔗 Connect with Me
 ------------------
 
-[🌐 Portfolio](https://davidalausa.com/) | [LinkedIn](https://www.linkedin.com/in/davidalausa) | [GitHub](https://github.com/yourusername)
+[🌐 Portfolio](https://davidalausa.com/) | [LinkedIn](www.linkedin.com/in/david-alausa-251405290) | [GitHub](https://github.com/davidAlausa)

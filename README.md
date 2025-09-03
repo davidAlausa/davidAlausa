@@ -38,10 +38,10 @@ Now exploring more complex ML solutions and data visualisation techniques.
 📊 GitHub Stats
 ---------------
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidAlausa&show_icons=true&theme=default)  
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidAlausa&layout=compact&theme=default)
 
 
 🔗 Connect with Me
